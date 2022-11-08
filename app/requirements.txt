@@ -1,0 +1,6 @@
+Flask
+pybind11
+cppimport
+jupyter
+numpy
+scikit-learn

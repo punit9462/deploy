@@ -1,0 +1,1 @@
+This contains the sklearn model for customerchurn along with Docker configurations to deploy this on a Kubernetes cluster on DigitalOceam
